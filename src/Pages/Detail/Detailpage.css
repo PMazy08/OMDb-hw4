@@ -1,0 +1,46 @@
+.con{
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.con-in{
+    display: block;
+}
+
+.btnb{
+    margin-bottom: 20px;
+  }
+  
+.btnb a {
+    color: rgb(255, 225, 0);
+    text-decoration: none; /* ไม่มีเส้นใต้ */
+  }
+
+.detail{
+    background-color: rgb(69, 69, 73);
+    display: flex;
+    justify-content: space-between;
+    width: 750px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.con-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(41, 41, 215); */
+    width: 700px;
+}
+.con-img img{
+    background-color: aqua;
+    width: 280px;
+    height: 450px;
+}
+.con-txt{
+    color: white;
+}
+
